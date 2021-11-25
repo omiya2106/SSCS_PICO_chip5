@@ -1,0 +1,18 @@
+---
+project:
+  description: "SSCS-21 Contest Project Submission---Final Merged Design."
+  foundry: "SkyWater"
+  git_url: "https://github.com/omiya2106/SSCS_PICO_chip5.git"
+  organization: "USA-EGYPT"
+  owner: "Omiya Hassan"
+  process: "SKY130"
+  project_name: "SSCS PICO Chip 5"
+  project_id: "00000000"
+  tags:
+    - "SSCS-21"
+    - "Test Harness"
+  category: "Test Harness"
+  top_level_netlist: "caravel/mag/caravel.mag"
+  user_level_netlist: "caravel/mag/user_project_wrapper.mag"
+  version: "1.00"
+  cover_image: "docs/source/_static/wrapper.png"
